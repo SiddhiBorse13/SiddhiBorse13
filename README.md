@@ -3,6 +3,7 @@
 I'm a passionate **Data Analyst | Business Analyst | Operations Professional** focused on turning data into actionable insights and optimizing business workflows 📊🚀
 
 🛠️ **Skills & Tools**
+
 **Databases:** MySQL 
 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 **Analytics & Visualization:** Power BI, Excel, Dashboards, Machine Learning  
