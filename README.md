@@ -4,8 +4,7 @@ I'm a passionate **Data Analyst | Business Analyst | Operations Professional** f
 
 🛠️ **Skills & Tools**
 
-•	**Databases:** MySQL 
-
+•	**Databases:** MySQL
 •	**Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 •	**Analytics & Visualization:** Power BI, Excel, Dashboards, Machine Learning  
 •	**Operations Tools:** Documentation & Process Mapping, Requirement Analysis  
