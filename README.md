@@ -1,4 +1,20 @@
-Hello, I'm Siddhi Borse, a Computer Engineering Graduate with a Master's in Data Analytics and Data Science from ITVEDANT Education. I am a results-driven Data Analyst with experience in Business Analytics, Data Science, and Visualization, skilled in turning data into actionable insights. In my role as a Data Analyst on an e-commerce project, I led data scraping, forecasting, and reporting to support data-driven decisions and optimize performance.
-Previously, as a Senior Data Associate, I managed pharmacy data, ensuring compliance, accuracy, and efficiency while delivering insights to improve client decision-making.
-My technical expertise includes SQL/MySQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Excel, and Machine Learning.
-Passionate about using data to solve problems, forecast trends, and drive business growth, I am seeking opportunities that align with my experience, where I can deliver impactful, data-driven solutions.
+👋 Hi there, I'm Siddhi Borse!
+
+I'm a passionate **Data Analyst | Business Analyst | Operations Professional** focused on turning data into actionable insights and optimizing business workflows 📊🚀
+
+🛠️ **Skills & Tools**
+**Databases:** MySQL, PostgreSQL  
+**Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+**Analytics & Visualization:** Power BI, Excel, Dashboards, Machine Learning  
+**Operations Tools:** Documentation & Process Mapping, Requirement Analysis  
+**Methodologies:** Data-Driven Decision Making, Process Optimization  
+**Operating Systems:** Windows
+
+📚 **Current Focus**
+Advanced Data Analytics and Forecasting  
+Building interactive dashboards and visualizations  
+Optimizing operational workflows for efficiency  
+Enhancing data-driven decision-making in organizations  
+
+📫 **Let's Connect**
+- [LinkedIn](https://linkedin.com/in/siddhi-borse) 
